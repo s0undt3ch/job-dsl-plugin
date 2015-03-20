@@ -45,7 +45,7 @@ subprojects {
     }
 }
 
-project(':job-dsl-core') {
+project(':job-dsl-saltstack-core') {
     repositories {
         mavenCentral()
         maven {
